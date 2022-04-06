@@ -1,0 +1,7 @@
+Tests\TestChalDalHelp.class
+Tests\ChaldalSettingsTest.class
+Tests\ChaldalSignUpTest.class
+Tests\ChaldalSignOutTest.class
+Tests\PtoductSearchTest.class
+Base\Base.class
+Tests\LoginTest.class
